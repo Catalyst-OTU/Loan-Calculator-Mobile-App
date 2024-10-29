@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679815085712",
+    "project_id": "sika-f68e1",
+    "storage_bucket": "sika-f68e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679815085712:android:3be4abe6f484dbde242215",
+        "android_client_info": {
+          "package_name": "sika.com.sika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzFmZFMgBj_L4vHpg5YmuigdvDuOFMAo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
